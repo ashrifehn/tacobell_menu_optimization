@@ -10,113 +10,104 @@
 8,Black Bean Chalupa Supreme®,$4.39,340,18g,4g,0g,10mg,460mg,36g,6g,4g,<1g,10g,0mcg,140mg,2.5mg,300mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 9,Cheesy Gordita Crunch,$4.79,490,28g,10g,0g,50mg,840mg,41g,5g,5g,1g,20g,0mcg,310mg,2.6mg,250mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 10,Doritos® Cheesy Gordita Crunch - Nacho Cheese,$5.19,500,28g,11g,0g,50mg,900mg,41g,5g,5g,1g,20g,0mcg,320mg,2.6mg,250mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
-11,Cheesy Jalapeno Mexican Pizza,$5.19,570,31g,9g,0g,40mg,1260mg,51g,9g,4g,<1g,20g,0mcg,340mg,3.3mg,560mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-12,Cheesy Jalapeno Mexican Pizza - Veggie,$5.19,500,27g,7g,0g,25mg,1010mg,49g,7g,4g,<1g,15g,0mcg,330mg,2.6mg,470mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13,Chicken Enchilada Burrito,$2.00,380,12g,6g,0g,40mg,1150mg,49g,3g,3g,2g,19g,0mcg,240mg,2.9mg,300mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-14,Strawberry Twists,$1.00,160,6g,0g,0g,0mg,280mg,26g,1g,11g,0g,1g,0mcg,10mg,0.2mg,30mg,,,,,,,,,,,
-15,Wild Strawberry Freeze,$3.69,190,0g,0g,0g,0mg,55mg,51g,0g,51g,51g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-16,Chicken Enchilada Burrito,$2.00,380,12g,6g,0g,40mg,1150mg,49g,3g,3g,2g,19g,0mcg,240mg,2.9mg,300mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-17,Chipotle Ranch Grilled Chicken Burrito,$2.00,510,29g,7g,0g,45mg,950mg,47g,4g,3g,2g,17g,0mcg,200mg,2.9mg,350mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-18,Grilled Cheese Burrito,$4.69,720,40g,16g,0.5g,75mg,1500mg,64g,6g,5g,2g,26g,0mcg,540mg,3.6mg,420mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-19,Steak Grilled Cheese Burrito,$5.69,700,38g,15g,0g,80mg,1520mg,62g,4g,5g,2g,28g,0mcg,550mg,3.5mg,440mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-20,Chicken Grilled Cheese Burrito,$5.29,690,37g,15g,0g,85mg,1510mg,62g,4g,4g,2g,29g,0mcg,530mg,3mg,480mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-21,Black Bean Grilled Cheese Burrito,$4.49,700,37g,15g,0g,55mg,1390mg,69g,8g,5g,2g,23g,0mcg,550mg,3.7mg,490mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-22,Bean Burrito,$1.99,350,9g,4g,0g,5mg,1040mg,55g,10g,3g,2g,13g,0mcg,210mg,4mg,400mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-23,Beefy 5-Layer Burrito,$3.99,490,18g,7g,0g,30mg,1260mg,65g,8g,5g,2g,18g,0mcg,270mg,4.8mg,460mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-24,Burrito Supreme®,$4.99,390,14g,6g,0g,25mg,1140mg,51g,8g,4g,2g,16g,0mcg,220mg,4mg,420mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-25,Beefy Melt Burrito,$2.00,620,29g,11g,0g,45mg,1190mg,70g,6g,4g,2g,20g,0mcg,360mg,3.6mg,410mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-26,Cheesy Bean and Rice Burrito,$1.00,420,16g,4g,0g,<5mg,920mg,55g,7g,3g,2g,9g,0mcg,160mg,3.4mg,360mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-27,Fiesta Veggie Burrito,$2.00,570,28g,8g,0g,25mg,1020mg,65g,9g,4g,2g,14g,19.2mcg,270mg,3.8mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-28,Chili Cheese Burrito,$2.99,380,17g,9g,0g,35mg,980mg,41g,4g,2g,1g,16g,0mcg,330mg,3.3mg,270mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-29,Cheesy Jalapeno Mexican Pizza,$5.19,570,31g,9g,0g,40mg,1260mg,51g,9g,4g,<1g,20g,0mcg,340mg,3.3mg,560mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-30,Cheesy Jalapeno Mexican Pizza - Veggie,$5.19,500,27g,7g,0g,25mg,1010mg,49g,7g,4g,<1g,15g,0mcg,330mg,2.6mg,470mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-31,Mexican Pizza,$5.39,530,29g,9g,0g,40mg,980mg,49g,8g,4g,<1g,19g,0mcg,320mg,3.3mg,440mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-32,Veggie Mexican Pizza,$5.19,470,25g,7g,0g,20mg,730mg,46g,7g,3g,<1g,14g,0mcg,310mg,2.6mg,360mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-33,Crunchwrap Supreme®,$5.39,540,21g,7g,0g,20mg,1210mg,73g,6g,6g,2g,16g,0mcg,250mg,4.6mg,530mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-34,Black Bean Crunchwrap Supreme®,$5.39,520,18g,5g,0g,5mg,1100mg,77g,8g,6g,2g,13g,0mcg,260mg,4.8mg,610mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-35,Cheesy Roll Up,$1.00,180,9g,6g,0g,20mg,430mg,17g,1g,1g,<1g,8g,0mcg,230mg,1mg,60mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-36,Chicken Chipotle Melt,$2.39,190,9g,3g,0g,35mg,530mg,16g,1g,<1g,<1g,12g,0mcg,100mg,1.1mg,170mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-37,Strawberry Twists,$1.00,160,6g,0g,0g,0mg,280mg,26g,1g,11g,0g,1g,0mcg,10mg,0.2mg,30mg,,,,,,,,,,,
-38,Cheesy Fiesta Potatoes,$2.59,240,13g,2g,0g,<5mg,520mg,28g,3g,1g,0g,3g,0mcg,40mg,0.3mg,560mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-39,Chips and Nacho Cheese Sauce,$2.59,220,13g,1.5g,0g,0mg,280mg,24g,2g,1g,0g,3g,0mcg,60mg,0.2mg,290mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-40,Black Beans,$1.49,50,1.5g,0g,0g,0mg,140mg,7g,4g,0g,0g,3g,0mcg,20mg,0.8mg,150mg,,,,,,,,,,,
-41,Black Beans and Rice,$1.49,160,4.5g,0g,0g,0mg,370mg,25g,5g,<1g,0g,4g,0mcg,20mg,1.3mg,190mg,,,,,,,,,,,
-42,Pintos N Cheese,$2.39,170,6g,3g,0g,10mg,640mg,20g,9g,1g,<1g,9g,0mcg,130mg,1.7mg,340mg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-43,Cinnamon Twists,$1.00,170,6g,0.5g,0g,0mg,115mg,27g,<1g,10g,10g,1g,0mcg,10mg,0mg,20mg,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-44,Cinnabon Delights® 2 Pack,$2.19,170,11g,3.5g,0g,5mg,70mg,15g,<1g,9g,9g,2g,0mcg,10mg,0mg,30mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-45,Cinnabon Delights® 12 Pack,$6.89,1010,68g,22g,0g,40mg,430mg,88g,5g,52g,52g,11g,0mcg,60mg,0mg,160mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-46,Mild Sauce Packet,$0.00,0,0g,0g,0g,0mg,30mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,10mg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-47,Hot Sauce Packet,$0.00,0,0g,0g,0g,0mg,45mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,10mg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-48,Fire Sauce Packet,$0.00,0,0g,0g,0g,0mg,55mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,20mg,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-49,Diablo Sauce Packet,$0.00,0,0g,0g,0g,0mg,35mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,10mg,,,,,,,,,,,
-50,Nacho Cheese Sauce,$0.00,60,4g,0g,0g,0mg,210mg,4g,0g,<1g,0g,<1g,0mcg,20mg,0mg,210mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-51,Reduced-Fat Sour Cream,$0.70,45,3g,2g,0g,10mg,30mg,3g,0g,1g,0g,<1g,0mcg,30mg,0mg,60mg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-52,Creamy Jalapeño Sauce,$0.60,230,19g,4.5g,0g,10mg,160mg,3g,<1g,1g,<1g,<1g,0mcg,20mg,0.1mg,70mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-53,Guacamole,$0.80,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-54,Chipotle Sauce,$0.50,220,24g,4g,0g,25mg,210mg,<1g,0g,0g,0g,<1g,0mcg,10mg,0.3mg,30mg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-55,Avocado Ranch Sauce,$0.45,240,25g,4g,0g,20mg,270mg,2g,0g,1g,<1g,<1g,0mcg,10mg,0.1mg,60mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-56,Spicy Ranch,$0.60,210,23g,3.5g,0g,20mg,190mg,2g,0g,1g,<1g,<1g,0mcg,20mg,0mg,50mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-57,Red Sauce,$0.31,15,0g,0g,0g,0mg,350mg,3g,<1g,0g,0g,1g,0mcg,10mg,0.3mg,60mg,,,,,,,,,,,
-58,Spicy Potato Soft Taco,$1.10,240,12g,3g,0g,10mg,480mg,28g,2g,1g,<1g,5g,0mcg,110mg,1.3mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-59,Chicken Enchilada Burrito,$2.00,380,12g,6g,0g,40mg,1150mg,49g,3g,3g,2g,19g,0mcg,240mg,2.9mg,300mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-60,Chipotle Ranch Grilled Chicken Burrito,$2.00,510,29g,7g,0g,45mg,950mg,47g,4g,3g,2g,17g,0mcg,200mg,2.9mg,350mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-61,Beefy Melt Burrito,$2.00,620,29g,11g,0g,45mg,1190mg,70g,6g,4g,2g,20g,0mcg,360mg,3.6mg,410mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-62,Cheesy Bean and Rice Burrito,$1.00,420,16g,4g,0g,<5mg,920mg,55g,7g,3g,2g,9g,0mcg,160mg,3.4mg,360mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-63,Fiesta Veggie Burrito,$2.00,570,28g,8g,0g,25mg,1020mg,65g,9g,4g,2g,14g,19.2mcg,270mg,3.8mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-64,Cheesy Roll Up,$1.00,180,9g,6g,0g,20mg,430mg,17g,1g,1g,<1g,8g,0mcg,230mg,1mg,60mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-65,Strawberry Twists,$1.00,160,6g,0g,0g,0mg,280mg,26g,1g,11g,0g,1g,0mcg,10mg,0.2mg,30mg,,,,,,,,,,,
-66,Cinnamon Twists,$1.00,170,6g,0.5g,0g,0mg,115mg,27g,<1g,10g,10g,1g,0mcg,10mg,0mg,20mg,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-67,Chicken Quesadilla,$5.59,520,26g,13g,0g,75mg,1260mg,41g,3g,3g,2g,26g,0mcg,500mg,2.6mg,290mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-68,Strawberry Twists,$1.00,160,6g,0g,0g,0mg,280mg,26g,1g,11g,0g,1g,0mcg,10mg,0.2mg,30mg,,,,,,,,,,,
-69,Wild Strawberry Freeze,$3.69,190,0g,0g,0g,0mg,55mg,51g,0g,51g,51g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-70,Blue Raspberry Freeze,$3.69,150,0g,0g,0g,0mg,40mg,38g,0g,38g,38g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-71,Pepsi®,$2.59,380,0g,0g,0g,0mg,80mg,103g,0g,103g,103g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-72,Diet Pepsi®,$2.59,0,0g,0g,0g,0mg,140mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-73,Pepsi® Zero Sugar,$2.59,0,0g,0g,0g,0mg,160mg,<1g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-74,Cherry Pepsi®,$2.59,390,0g,0g,0g,0mg,80mg,106g,0g,105g,105g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-75,MTN DEW®,$2.59,420,0g,0g,0g,0mg,130mg,110g,0g,110g,110g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-76,MTN DEW® Zero,$2.59,5,0g,0g,0g,0mg,115mg,<1g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-77,MTN DEW® Baja Blast™ Zero Sugar,$2.59,15,0g,0g,0g,0mg,125mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-78,Mug® Root Beer,$2.59,360,0g,0g,0g,0mg,140mg,96g,0g,95g,95g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-79,Starry®,$2.59,370,0g,0g,0g,0mg,85mg,97g,0g,97g,97g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-80,G2 Gatorade® Fruit Punch,$2.59,80,0g,0g,0g,0mg,410mg,19g,0g,17g,17g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-81,Brisk® Mango Fiesta,$2.59,170,0g,0g,0g,0mg,95mg,45g,0g,45g,45g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-82,Lipton® Unsweetened Iced Tea,$2.59,0,0g,0g,0g,0mg,300mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
-83,Nachos BellGrande®,$6.19,730,38g,6g,0g,25mg,1130mg,81g,15g,4g,<1g,17g,0mcg,200mg,2.7mg,970mg,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-84,Chips and Nacho Cheese Sauce,$2.59,220,13g,1.5g,0g,0mg,280mg,24g,2g,1g,0g,3g,0mcg,60mg,0.2mg,290mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-85,Cheesy Jalapeno Mexican Pizza - Veggie,$5.19,500,27g,7g,0g,25mg,1010mg,49g,7g,4g,<1g,15g,0mcg,330mg,2.6mg,470mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-86,Bean Burrito,$1.99,350,9g,4g,0g,5mg,1040mg,55g,10g,3g,2g,13g,0mcg,210mg,4mg,400mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-87,Cheesy Bean and Rice Burrito,$1.00,420,16g,4g,0g,<5mg,920mg,55g,7g,3g,2g,9g,0mcg,160mg,3.4mg,360mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-88,Fiesta Veggie Burrito,$2.00,570,28g,8g,0g,25mg,1020mg,65g,9g,4g,2g,14g,19.2mcg,270mg,3.8mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-89,Spicy Potato Soft Taco,$1.10,240,12g,3g,0g,10mg,480mg,28g,2g,1g,<1g,5g,0mcg,110mg,1.3mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-90,Black Bean Chalupa Supreme®,$4.19,340,18g,4g,0g,10mg,460mg,36g,6g,4g,<1g,10g,0mcg,140mg,2.5mg,300mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-91,Black Bean Crunchwrap Supreme®,$5.39,520,18g,5g,0g,5mg,1100mg,77g,8g,6g,2g,13g,0mcg,260mg,4.8mg,610mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-92,Veggie Mexican Pizza,$5.19,470,25g,7g,0g,20mg,730mg,46g,7g,3g,<1g,14g,0mcg,310mg,2.6mg,360mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-93,Power Menu Bowl - Veggie,$6.79,420,20g,5g,0g,20mg,870mg,47g,11g,3g,0g,12g,19.2mcg,170mg,2.7mg,590mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-94,Cheesy Roll Up,$1.00,180,9g,6g,0g,20mg,430mg,17g,1g,1g,<1g,8g,0mcg,230mg,1mg,60mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-95,Cheesy Fiesta Potatoes,$2.59,240,13g,2g,0g,<5mg,520mg,28g,3g,1g,0g,3g,0mcg,40mg,0.3mg,560mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-96,Chips and Nacho Cheese Sauce,$2.59,220,13g,1.5g,0g,0mg,280mg,24g,2g,1g,0g,3g,0mcg,60mg,0.2mg,290mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-97,Black Beans,$1.49,50,1.5g,0g,0g,0mg,140mg,7g,4g,0g,0g,3g,0mcg,20mg,0.8mg,150mg,,,,,,,,,,,
-98,Black Beans and Rice,$1.49,160,4.5g,0g,0g,0mg,370mg,25g,5g,<1g,0g,4g,0mcg,20mg,1.3mg,190mg,,,,,,,,,,,
-99,Pintos N Cheese,$2.39,170,6g,3g,0g,10mg,640mg,20g,9g,1g,<1g,9g,0mcg,130mg,1.7mg,340mg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-100,Cinnamon Twists,$1.00,170,6g,0.5g,0g,0mg,115mg,27g,<1g,10g,10g,1g,0mcg,10mg,0mg,20mg,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-101,Cinnabon Delights® 2 Pack,$2.19,170,11g,3.5g,0g,5mg,70mg,15g,<1g,9g,9g,2g,0mcg,10mg,0mg,30mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-102,Cinnabon Delights® 12 Pack,$6.89,1010,68g,22g,0g,40mg,430mg,88g,5g,52g,52g,11g,0mcg,60mg,0mg,160mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-103,Power Menu Bowl,$6.99,460,21g,6g,0g,70mg,1250mg,41g,8g,3g,0g,26g,19.2mcg,160mg,2mg,700mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-104,Power Menu Bowl - Veggie,$6.79,420,20g,5g,0g,20mg,870mg,47g,11g,3g,0g,12g,19.2mcg,170mg,2.7mg,590mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-105,Cheesy Toasted Breakfast Burrito Bacon,$1.69,350,16g,5g,0g,105mg,880mg,38g,2g,3g,2g,13g,0mcg,150mg,3mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-106,Cheesy Toasted Breakfast Burrito Sausage,$1.69,350,17g,6g,0g,105mg,770mg,38g,2g,3g,2g,10g,0mcg,150mg,2.9mg,240mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-107,Cheesy Toasted Breakfast Burrito Potato,$1.69,340,14g,3.5g,0g,95mg,770mg,44g,3g,3g,1g,9g,0mcg,150mg,3mg,350mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-108,Grande Toasted Breakfast Burrito Steak,$4.39,570,28g,10g,0g,230mg,1370mg,52g,4g,4g,2g,27g,0mcg,360mg,4.1mg,520mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-109,Grande Toasted Breakfast Burrito Sausage,$3.79,570,31g,12g,0g,220mg,1190mg,51g,4g,3g,2g,21g,0mcg,340mg,3.6mg,450mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-110,Grande Toasted Breakfast Burrito Bacon,$3.79,570,30g,11g,0g,220mg,1310mg,52g,4g,3g,2g,23g,0mcg,340mg,3.7mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-111,Breakfast Quesadilla Sausage,$3.69,510,29g,15g,0g,150mg,1130mg,40g,3g,3g,2g,23g,0mcg,510mg,2.9mg,200mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-112,Breakfast Quesadilla Bacon,$3.69,510,27g,14g,0g,150mg,1250mg,41g,3g,3g,2g,25g,0mcg,510mg,3mg,230mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-113,Breakfast Quesadilla Steak,$3.99,510,25g,14g,0g,160mg,1310mg,41g,3g,4g,2g,28g,0mcg,520mg,3.5mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-114,Breakfast California Crunchwrap,$3.99,630,37g,12g,0g,130mg,1340mg,53g,5g,3g,2g,21g,19.2mcg,350mg,3.1mg,500mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-115,Breakfast Crunchwrap Bacon,$3.79,670,40g,13g,0g,135mg,1300mg,52g,4g,3g,2g,21g,0mcg,350mg,3mg,390mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-116,Breakfast Crunchwrap Sausage,$3.79,750,49g,16g,0g,145mg,1220mg,53g,4g,3g,2g,21g,0mcg,360mg,3.3mg,400mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-117,Hash Brown,$1.69,160,11g,1g,0g,0mg,280mg,14g,1g,0g,0g,1g,0mcg,10mg,0mg,190mg,,,,,,,,,,,
-118,Cinnabon Delights® 2 Pack,$2.19,170,11g,3.5g,0g,5mg,70mg,15g,<1g,9g,9g,2g,0mcg,10mg,0mg,30mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-119,Cinnabon Delights® 12 Pack,$6.89,1010,68g,22g,0g,40mg,430mg,88g,5g,52g,52g,11g,0mcg,60mg,0mg,160mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-120,Breakfast Salsa,$0.00,0,0g,0g,0g,0mg,50mg,<1g,0g,0g,0g,0g,0mcg,0mg,0mg,40mg,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Steak and Bacon Grilled Cheese Burrito,$5.99,700,39g,16g,0g,85mg,1730mg,57g,4g,5g,2g,30g,0mcg,540mg,3.3mg,620mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Grilled Cheese Burrito,$4.69,720,40g,16g,0.5g,75mg,1500mg,64g,6g,5g,2g,26g,0mcg,540mg,3.6mg,420mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Steak Grilled Cheese Burrito,$5.69,700,38g,15g,0g,80mg,1520mg,62g,4g,5g,2g,28g,0mcg,550mg,3.5mg,440mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Chicken Grilled Cheese Burrito,$5.29,690,37g,15g,0g,85mg,1510mg,62g,4g,4g,2g,29g,0mcg,530mg,3mg,480mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Black Bean Grilled Cheese Burrito,$4.49,700,37g,15g,0g,55mg,1390mg,69g,8g,5g,2g,23g,0mcg,550mg,3.7mg,490mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,Bean Burrito,$1.99,350,9g,4g,0g,5mg,1040mg,55g,10g,3g,2g,13g,0mcg,210mg,4mg,400mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Beefy 5-Layer Burrito,$3.99,490,18g,7g,0g,30mg,1260mg,65g,8g,5g,2g,18g,0mcg,270mg,4.8mg,460mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Burrito Supreme®,$4.99,390,14g,6g,0g,25mg,1140mg,51g,8g,4g,2g,16g,0mcg,220mg,4mg,420mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Chipotle Ranch Grilled Chicken Burrito,$2.00,510,29g,7g,0g,45mg,950mg,47g,4g,3g,2g,17g,0mcg,200mg,2.9mg,350mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,Beefy Melt Burrito,$2.00,620,29g,11g,0g,45mg,1190mg,70g,6g,4g,2g,20g,0mcg,360mg,3.6mg,410mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,Cheesy Bean and Rice Burrito,$1.00,420,16g,4g,0g,<5mg,920mg,55g,7g,3g,2g,9g,0mcg,160mg,3.4mg,360mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Fiesta Veggie Burrito,$2.00,570,28g,8g,0g,25mg,1020mg,65g,9g,4g,2g,14g,19.2mcg,270mg,3.8mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Chili Cheese Burrito,$2.99,380,17g,9g,0g,35mg,980mg,41g,4g,2g,1g,16g,0mcg,330mg,3.3mg,270mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Cheesy Fiesta Potatoes,$2.59,240,13g,2g,0g,<5mg,520mg,28g,3g,1g,0g,3g,0mcg,40mg,0.3mg,560mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Chips and Nacho Cheese Sauce,$2.59,220,13g,1.5g,0g,0mg,280mg,24g,2g,1g,0g,3g,0mcg,60mg,0.2mg,290mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Chips and Vegan Nacho Sauce,$2.59,210,11g,1.5g,0g,0mg,270mg,24g,2g,0g,0g,2g,0mcg,40mg,0.2mg,260mg,,,,,,,,,,,
+27,Black Beans,$1.49,50,1.5g,0g,0g,0mg,140mg,7g,4g,0g,0g,3g,0mcg,20mg,0.8mg,150mg,,,,,,,,,,,
+28,Black Beans and Rice,$1.49,160,4.5g,0g,0g,0mg,370mg,25g,5g,<1g,0g,4g,0mcg,20mg,1.3mg,190mg,,,,,,,,,,,
+29,Pintos N Cheese,$2.39,170,6g,3g,0g,10mg,640mg,20g,9g,1g,<1g,9g,0mcg,130mg,1.7mg,340mg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Strawberry Twists,$1.00,160,6g,0g,0g,0mg,280mg,26g,1g,11g,0g,1g,0mcg,10mg,0.2mg,30mg,,,,,,,,,,,
+31,Cinnamon Twists,$1.00,170,6g,0.5g,0g,0mg,115mg,27g,<1g,10g,10g,1g,0mcg,10mg,0mg,20mg,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Cinnabon Delights® 2 Pack,$2.19,170,11g,3.5g,0g,5mg,70mg,15g,<1g,9g,9g,2g,0mcg,10mg,0mg,30mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Cinnabon Delights® 12 Pack,$6.89,1010,68g,22g,0g,40mg,430mg,88g,5g,52g,52g,11g,0mcg,60mg,0mg,160mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Mild Sauce Packet,$0.00,0,0g,0g,0g,0mg,30mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,10mg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,Hot Sauce Packet,$0.00,0,0g,0g,0g,0mg,45mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,10mg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Fire Sauce Packet,$0.00,0,0g,0g,0g,0mg,55mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,20mg,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Diablo Sauce Packet,$0.00,0,0g,0g,0g,0mg,35mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,10mg,,,,,,,,,,,
+38,Nacho Cheese Sauce,$0.00,60,4g,0g,0g,0mg,210mg,4g,0g,<1g,0g,<1g,0mcg,20mg,0mg,210mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,Vegan Nacho Sauce,$0.00,45,3g,0.5g,0g,0mg,200mg,4g,0g,0g,0g,0g,0mcg,0mg,0mg,180mg,,,,,,,,,,,
+40,Reduced-Fat Sour Cream,$0.70,45,3g,2g,0g,10mg,30mg,3g,0g,1g,0g,<1g,0mcg,30mg,0mg,60mg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Creamy Jalapeño Sauce,$0.60,230,19g,4.5g,0g,10mg,160mg,3g,<1g,1g,<1g,<1g,0mcg,20mg,0.1mg,70mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,Guacamole,$0.80,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+43,Chipotle Sauce,$0.50,220,24g,4g,0g,25mg,210mg,<1g,0g,0g,0g,<1g,0mcg,10mg,0.3mg,30mg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,Avocado Ranch Sauce,$0.45,240,25g,4g,0g,20mg,270mg,2g,0g,1g,<1g,<1g,0mcg,10mg,0.1mg,60mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,Spicy Ranch,$0.60,210,23g,3.5g,0g,20mg,190mg,2g,0g,1g,<1g,<1g,0mcg,20mg,0mg,50mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,Red Sauce,$0.31,15,0g,0g,0g,0mg,350mg,3g,<1g,0g,0g,1g,0mcg,10mg,0.3mg,60mg,,,,,,,,,,,
+47,Spicy Potato Soft Taco,$1.10,240,12g,3g,0g,10mg,480mg,28g,2g,1g,<1g,5g,0mcg,110mg,1.3mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Chipotle Ranch Grilled Chicken Burrito,$2.00,510,29g,7g,0g,45mg,950mg,47g,4g,3g,2g,17g,0mcg,200mg,2.9mg,350mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,Beefy Melt Burrito,$2.00,620,29g,11g,0g,45mg,1190mg,70g,6g,4g,2g,20g,0mcg,360mg,3.6mg,410mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,Cheesy Bean and Rice Burrito,$1.00,420,16g,4g,0g,<5mg,920mg,55g,7g,3g,2g,9g,0mcg,160mg,3.4mg,360mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,Fiesta Veggie Burrito,$2.00,570,28g,8g,0g,25mg,1020mg,65g,9g,4g,2g,14g,19.2mcg,270mg,3.8mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,Cheesy Roll Up,$1.00,180,9g,6g,0g,20mg,430mg,17g,1g,1g,<1g,8g,0mcg,230mg,1mg,60mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,Strawberry Twists,$1.00,160,6g,0g,0g,0mg,280mg,26g,1g,11g,0g,1g,0mcg,10mg,0.2mg,30mg,,,,,,,,,,,
+54,Cinnamon Twists,$1.00,170,6g,0.5g,0g,0mg,115mg,27g,<1g,10g,10g,1g,0mcg,10mg,0mg,20mg,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,Chicken Quesadilla,$5.59,520,26g,13g,0g,75mg,1260mg,41g,3g,3g,2g,26g,0mcg,500mg,2.6mg,290mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Wild Strawberry Freeze,$3.69,190,0g,0g,0g,0mg,55mg,51g,0g,51g,51g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+57,Blue Raspberry Freeze,$3.69,150,0g,0g,0g,0mg,40mg,38g,0g,38g,38g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+58,Pepsi®,$2.59,380,0g,0g,0g,0mg,80mg,103g,0g,103g,103g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+59,Diet Pepsi®,$2.59,0,0g,0g,0g,0mg,140mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+60,Pepsi® Zero Sugar,$2.59,0,0g,0g,0g,0mg,160mg,<1g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+61,Cherry Pepsi®,$2.59,390,0g,0g,0g,0mg,80mg,106g,0g,105g,105g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+62,MTN DEW®,$2.59,420,0g,0g,0g,0mg,130mg,110g,0g,110g,110g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+63,MTN DEW® Zero,$2.59,5,0g,0g,0g,0mg,115mg,<1g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+64,MTN DEW® Baja Blast™ Zero Sugar,$2.59,15,0g,0g,0g,0mg,125mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+65,Mug® Root Beer,$2.59,360,0g,0g,0g,0mg,140mg,96g,0g,95g,95g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+66,Starry®,$2.59,370,0g,0g,0g,0mg,85mg,97g,0g,97g,97g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+67,G2 Gatorade® Fruit Punch,$2.59,80,0g,0g,0g,0mg,410mg,19g,0g,17g,17g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+68,Brisk® Mango Fiesta,$2.59,170,0g,0g,0g,0mg,95mg,45g,0g,45g,45g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+69,Lipton® Unsweetened Iced Tea,$2.59,0,0g,0g,0g,0mg,300mg,0g,0g,0g,0g,0g,0mcg,0mg,0mg,0mg,,,,,,,,,,,
+70,Nachos BellGrande®,$6.19,730,38g,6g,0g,25mg,1130mg,81g,15g,4g,<1g,17g,0mcg,200mg,2.7mg,970mg,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,Chips and Nacho Cheese Sauce,$2.59,220,13g,1.5g,0g,0mg,280mg,24g,2g,1g,0g,3g,0mcg,60mg,0.2mg,290mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,Chips and Vegan Nacho Sauce,$2.59,210,11g,1.5g,0g,0mg,270mg,24g,2g,0g,0g,2g,0mcg,40mg,0.2mg,260mg,,,,,,,,,,,
+73,Bean Burrito,$1.99,350,9g,4g,0g,5mg,1040mg,55g,10g,3g,2g,13g,0mcg,210mg,4mg,400mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,Cheesy Bean and Rice Burrito,$1.00,420,16g,4g,0g,<5mg,920mg,55g,7g,3g,2g,9g,0mcg,160mg,3.4mg,360mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,Fiesta Veggie Burrito,$2.00,570,28g,8g,0g,25mg,1020mg,65g,9g,4g,2g,14g,19.2mcg,270mg,3.8mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,Spicy Potato Soft Taco,$1.10,240,12g,3g,0g,10mg,480mg,28g,2g,1g,<1g,5g,0mcg,110mg,1.3mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,Black Bean Chalupa Supreme®,$4.19,340,18g,4g,0g,10mg,460mg,36g,6g,4g,<1g,10g,0mcg,140mg,2.5mg,300mg,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,Black Bean Crunchwrap Supreme®,$5.39,520,18g,5g,0g,5mg,1100mg,77g,8g,6g,2g,13g,0mcg,260mg,4.8mg,610mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,Veggie Mexican Pizza,$5.19,470,25g,7g,0g,20mg,730mg,46g,7g,3g,<1g,14g,0mcg,310mg,2.6mg,360mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,Power Menu Bowl - Veggie,$6.79,420,20g,5g,0g,20mg,870mg,47g,11g,3g,0g,12g,19.2mcg,170mg,2.7mg,590mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,Cheesy Roll Up,$1.00,180,9g,6g,0g,20mg,430mg,17g,1g,1g,<1g,8g,0mcg,230mg,1mg,60mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,Cheesy Fiesta Potatoes,$2.59,240,13g,2g,0g,<5mg,520mg,28g,3g,1g,0g,3g,0mcg,40mg,0.3mg,560mg,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,Chips and Nacho Cheese Sauce,$2.59,220,13g,1.5g,0g,0mg,280mg,24g,2g,1g,0g,3g,0mcg,60mg,0.2mg,290mg,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,Chips and Vegan Nacho Sauce,$2.59,210,11g,1.5g,0g,0mg,270mg,24g,2g,0g,0g,2g,0mcg,40mg,0.2mg,260mg,,,,,,,,,,,
+85,Black Beans,$1.49,50,1.5g,0g,0g,0mg,140mg,7g,4g,0g,0g,3g,0mcg,20mg,0.8mg,150mg,,,,,,,,,,,
+86,Black Beans and Rice,$1.49,160,4.5g,0g,0g,0mg,370mg,25g,5g,<1g,0g,4g,0mcg,20mg,1.3mg,190mg,,,,,,,,,,,
+87,Pintos N Cheese,$2.39,170,6g,3g,0g,10mg,640mg,20g,9g,1g,<1g,9g,0mcg,130mg,1.7mg,340mg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,Cinnamon Twists,$1.00,170,6g,0.5g,0g,0mg,115mg,27g,<1g,10g,10g,1g,0mcg,10mg,0mg,20mg,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,Cinnabon Delights® 2 Pack,$2.19,170,11g,3.5g,0g,5mg,70mg,15g,<1g,9g,9g,2g,0mcg,10mg,0mg,30mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,Cinnabon Delights® 12 Pack,$6.89,1010,68g,22g,0g,40mg,430mg,88g,5g,52g,52g,11g,0mcg,60mg,0mg,160mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,Power Menu Bowl,$6.99,460,21g,6g,0g,70mg,1250mg,41g,8g,3g,0g,26g,19.2mcg,160mg,2mg,700mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,Power Menu Bowl - Veggie,$6.79,420,20g,5g,0g,20mg,870mg,47g,11g,3g,0g,12g,19.2mcg,170mg,2.7mg,590mg,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,Breakfast Taco Sausage,$1.89,230,15g,5g,0g,110mg,440mg,16g,1g,<1g,<1g,9g,0mcg,120mg,1.5mg,100mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+94,Breakfast Taco Bacon,$1.89,230,14g,5g,0g,115mg,550mg,16g,1g,1g,<1g,11g,0mcg,120mg,1.6mg,120mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,Breakfast Taco Potato,$1.89,220,11g,3.5g,0g,100mg,440mg,22g,2g,<1g,<1g,8g,0mcg,120mg,1.6mg,180mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,Cheesy Toasted Breakfast Burrito Bacon,$1.69,350,16g,5g,0g,105mg,880mg,38g,2g,3g,2g,13g,0mcg,150mg,3mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,Cheesy Toasted Breakfast Burrito Sausage,$1.69,350,17g,6g,0g,105mg,770mg,38g,2g,3g,2g,10g,0mcg,150mg,2.9mg,240mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,Cheesy Toasted Breakfast Burrito Potato,$1.69,340,14g,3.5g,0g,95mg,770mg,44g,3g,3g,1g,9g,0mcg,150mg,3mg,350mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,Grande Toasted Breakfast Burrito Steak,$4.39,570,28g,10g,0g,230mg,1370mg,52g,4g,4g,2g,27g,0mcg,360mg,4.1mg,520mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,Grande Toasted Breakfast Burrito Sausage,$3.79,570,31g,12g,0g,220mg,1190mg,51g,4g,3g,2g,21g,0mcg,340mg,3.6mg,450mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,Grande Toasted Breakfast Burrito Bacon,$3.79,570,30g,11g,0g,220mg,1310mg,52g,4g,3g,2g,23g,0mcg,340mg,3.7mg,470mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,Breakfast Quesadilla Sausage,$3.69,510,29g,15g,0g,150mg,1130mg,40g,3g,3g,2g,23g,0mcg,510mg,2.9mg,200mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,Breakfast Quesadilla Bacon,$3.69,510,27g,14g,0g,150mg,1250mg,41g,3g,3g,2g,25g,0mcg,510mg,3mg,230mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+104,Breakfast Quesadilla Steak,$3.99,510,25g,14g,0g,160mg,1310mg,41g,3g,4g,2g,28g,0mcg,520mg,3.5mg,270mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,Breakfast California Crunchwrap,$3.99,630,37g,12g,0g,130mg,1340mg,53g,5g,3g,2g,21g,19.2mcg,350mg,3.1mg,500mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,Breakfast Crunchwrap Bacon,$3.79,670,40g,13g,0g,135mg,1300mg,52g,4g,3g,2g,21g,0mcg,350mg,3mg,390mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,Breakfast Crunchwrap Sausage,$3.79,750,49g,16g,0g,145mg,1220mg,53g,4g,3g,2g,21g,0mcg,360mg,3.3mg,400mg,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,Hash Brown,$1.69,160,11g,1g,0g,0mg,280mg,14g,1g,0g,0g,1g,0mcg,10mg,0mg,190mg,,,,,,,,,,,
+109,Cinnabon Delights® 2 Pack,$2.19,170,11g,3.5g,0g,5mg,70mg,15g,<1g,9g,9g,2g,0mcg,10mg,0mg,30mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,Cinnabon Delights® 12 Pack,$6.89,1010,68g,22g,0g,40mg,430mg,88g,5g,52g,52g,11g,0mcg,60mg,0mg,160mg,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,Breakfast Salsa,$0.00,0,0g,0g,0g,0mg,50mg,<1g,0g,0g,0g,0g,0mcg,0mg,0mg,40mg,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
