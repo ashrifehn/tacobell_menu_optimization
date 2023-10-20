@@ -19,5 +19,4 @@ After completing each model, we will compare each to see what objective function
 - Libaries: Pandas, Numpy, Selenium, Gurobi, Plotly
 
 ## Data
-- The primary dataset will come from the official Taco Bell website, only using the sites that allow web crawlers; this information can be viewed here: https://www.tacobell.com/robots.txt. 
-Using Selenium to automate the web scraping process, I will pull information such as item names, macro/micronutrients, allergens, and indigents. All code files can be found under the data processing file.
+- The primary dataset will come from the official Taco Bell website, only using the sites that allow web crawlers; this information can be viewed here: https://www.tacobell.com/robots.txt. Using Selenium to automate the web scraping process, I pulled information such as item names, macro/micronutrients, allergens, and indigents. All code files can be found under the data processing file.
