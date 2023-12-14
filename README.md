@@ -1,4 +1,4 @@
-# Taco Bell Menu Optimization (LP)
+# Taco Bell Menu Optimization 
 
 ## Description 
 As a college student, eating health is complex. We know what's essential for our bodies, but with commitments like attending class, completing assignments on time, exams, papers, parties, discussion posts, and, for some, balancing athletics, time is hard to find, and on top of that, the money need to prep meals with high-quality ingredients is expensive. Thankfully, we students only have to experience this briefly (I hope). But what about those who need the appropriate knowledge about what they should eat or more time or money to cook/purchase high-quality meals?
