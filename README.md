@@ -11,8 +11,8 @@ For many fast food restaurants, it is an option that can fulfill their dietary n
 - Phone number: (203)-820-0488
 
 ## Programming Language and Libaries
-- Python 3.11.4 and Jupiter Notebook
-- Version 3.11.4
+- Python (3.11.4)
+- Jupiter Notebook
 - Libaries: Pandas, Numpy, Selenium, Gurobi
 
 ## Data
