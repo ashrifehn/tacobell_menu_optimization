@@ -11,16 +11,18 @@ For many fast food restaurants, it is an option that can fulfill their dietary n
 - Phone number: (203)-820-0488
 
 ## Programming Language and Libaries
-- Python and Jupiter Notebook
+- Python 3.11.4 and Jupiter Notebook
 - Version 3.11.4
-- Libaries: Pandas, Numpy, Selenium, Gurobi, Plotly
+- Libaries: Pandas, Numpy, Selenium, Gurobi
 
 ## Data
-### Menu Data
+### Menu Data 
 - The primary dataset will come from the official Taco Bell website, only using the sites that allow web crawlers; this information can be viewed here: https://www.tacobell.com/robots.txt. Using Selenium to automate the web scraping process, I pulled information such as item names, macro/micronutrients, allergens, and indigents. All code files can be found under the data processing file. `menu_data_web_scraping.ipynb` should be ran first then the `cleaning_taco_bell_indv_items.ipynb` second.
 
 The final dataset will include the following information:
 The item name and section name are strings. Price is a continuous numeric decimal. The macro/micronutrients will be represented as continuous integers, and their unit of measurement: Calories, Protein (grams), Total Carbohydrates (grams), Dietary Fiber (grams), Total Fat (grams), Saturated Fat (grams), Trans Fat (grams), Cholesterol (milligrams), Sodium (milligrams), Sugars (grams), Potassium (grams), Iron (milligrams), Calcium (milligrams), Vitamin D (micrograms).
+
+Data Updated: December 26, 2023
 
 
 ### Contraint Data
