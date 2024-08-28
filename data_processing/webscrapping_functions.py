@@ -66,17 +66,17 @@ def get_menu_section_links(driver, base_url="https://www.tacobell.com", menu_end
 
 
     cites_allowed_WS = [
-    "/food/tacos"] 
-    # "/food/burritos",
-    # "/food/quesadillas",
-    # "/food/nachos",
-    # "/food/sides-sweets",
-    # "/food/drinks",
-    # "/food/power-menu",
-    # "/food/vegetarian",
-    # "/food/breakfast",
-    # "/food/specialties"
-#
+    "/food/tacos", 
+    "/food/burritos",
+    "/food/quesadillas",
+    "/food/nachos",
+    "/food/sides-sweets",
+    "/food/drinks",
+    "/food/power-menu",
+    "/food/vegetarian",
+    "/food/breakfast",
+    "/food/specialties"]
+
 
 
     # Look into https://www.tacobell.com/sitemap.xml a little bit more.
