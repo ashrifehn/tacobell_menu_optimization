@@ -25,7 +25,7 @@ The item name and section name are strings. Price is a continuous numeric decima
 Data Updated: December 26, 2023
 
 
-### Contraint Data
+### Constraint Data
 - The nutritional constraints are based on the Dietary Guidelines for Americans, 2020-2025, specifically table A1-2 for males ages 19-30: https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf.
  
 
